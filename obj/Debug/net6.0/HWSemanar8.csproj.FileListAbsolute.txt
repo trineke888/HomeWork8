@@ -1,0 +1,15 @@
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\bin\Debug\net6.0\HWSemanar8.exe
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\bin\Debug\net6.0\HWSemanar8.deps.json
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\bin\Debug\net6.0\HWSemanar8.runtimeconfig.json
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\bin\Debug\net6.0\HWSemanar8.dll
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\bin\Debug\net6.0\HWSemanar8.pdb
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\HWSemanar8.csproj.AssemblyReference.cache
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\HWSemanar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\HWSemanar8.AssemblyInfoInputs.cache
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\HWSemanar8.AssemblyInfo.cs
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\HWSemanar8.csproj.CoreCompileInputs.cache
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\HWSemanar8.dll
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\refint\HWSemanar8.dll
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\HWSemanar8.pdb
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\HWSemanar8.genruntimeconfig.cache
+C:\Users\eka333\Desktop\Analitik\C#\HWSemanar8\obj\Debug\net6.0\ref\HWSemanar8.dll
